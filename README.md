@@ -1,2 +1,2 @@
 # Periodic-Table
-Developed a Internet Period Table with html and CSS (Grid)
+ https://khadijagardezi.github.io/Periodic-Table
